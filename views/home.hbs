@@ -6,11 +6,10 @@
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
-        <h1>{{pageTitle}}</h1>
-        <p>{{welcomeMessage}}</p>
+        {{> header}}
 
-        <footer>
-            <p>Copyright {{currentYear}}</p>
-        </footer>
+        <p>{{screamIt welcomeMessage}}</p>
+
+        {{> footer}}
     </body>
 </html>
