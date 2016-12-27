@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.15.3",
     "request": "^2.79.0",
     "yargs": "^6.5.0"
   },
