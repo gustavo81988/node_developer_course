@@ -1,0 +1,22 @@
+{
+  "name": "node_developer_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo81988/node_developer_course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo81988/node_developer_course/issues"
+  },
+  "homepage": "https://github.com/gustavo81988/node_developer_course#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
