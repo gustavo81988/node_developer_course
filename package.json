@@ -1,0 +1,23 @@
+{
+  "name": "node_developer_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo81988/node_developer_course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo81988/node_developer_course/issues"
+  },
+  "homepage": "https://github.com/gustavo81988/node_developer_course#readme"
+}
