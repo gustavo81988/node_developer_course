@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gustavo81988/node_developer_course#readme",
   "dependencies": {
-    "mongodb": "^2.2.16"
+    "mongodb": "^2.2.16",
+    "mongoose": "^4.8.1"
   }
 }
